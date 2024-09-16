@@ -1,4 +1,4 @@
-# Monra - Código Legado
+# Suri - Código Legado
 
 Este é o código legado da Suri, um chatbot criado para participar de conversas privadas e grupos no WhatsApp.
 
