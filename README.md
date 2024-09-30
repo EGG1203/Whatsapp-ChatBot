@@ -2,7 +2,7 @@
 
 # 📖 Descrição do Projeto 📖
 
-Este projeto se trata de um projeto de conclusão de curso, desenvolvido por Guilherme Bastos, Lucas Luiz Moreira Urani e Kauan Mendes Caetano. O objetivo deste projeto é otimizar a comunicação e o acesso aos conteúdos educacionais para os estudantes do sétimo e oitavo semestres do curso de Ciência da Computação, utilizando o WhatsApp como plataforma. 
+Este projeto se trata de um trabalho de conclusão de curso, desenvolvido por Guilherme Bastos, Lucas Luiz Moreira Urani e Kauan Mendes Caetano. O objetivo deste projeto é otimizar a comunicação e o acesso aos conteúdos educacionais para os estudantes do sétimo e oitavo semestres do curso de Ciência da Computação, utilizando o WhatsApp como plataforma. 
 Ele proporciona acesso rápido às informações relacionadas às matérias e à grade de horários dessas turmas. Além disso, o chatbot atua como um canal de encaminhamento de avisos e e-mails de professores e da coordenação do curso, assegurando que os alunos recebam atualizações e instruções de forma ágil e organizada.
 
 # 📝 Objetivos Específicos 📝
@@ -30,6 +30,8 @@ Ele proporciona acesso rápido às informações relacionadas às matérias e à
 • Linguagens de Programação: JavaScript, TypeScript
 
 • Ambiente de Execução: NodeJS
+
+• Plataforma: WhatsApp
 
 
 # Suri - Código Legado
