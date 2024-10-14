@@ -2,18 +2,18 @@
 
 # 📖 Descrição do Projeto 📖
 
-Este projeto se trata de um trabalho de conclusão de curso, desenvolvido por Guilherme Bastos, Lucas Luiz Moreira Urani e Kauan Mendes Caetano. O objetivo deste projeto é otimizar a comunicação e o acesso aos conteúdos educacionais para os estudantes do sétimo e oitavo semestres do curso de Ciência da Computação, utilizando o WhatsApp como plataforma. 
-Ele proporciona acesso rápido às informações relacionadas às matérias e à grade de horários dessas turmas. Além disso, o chatbot atua como um canal de encaminhamento de avisos e e-mails de professores e da coordenação do curso, assegurando que os alunos recebam atualizações e instruções de forma ágil e organizada.
+Esta aplicação se trata de um trabalho de conclusão de curso, desenvolvido por Guilherme Bastos, Lucas Luiz Moreira Urani e Kauan Mendes Caetano. O objetivo deste ChatBot é otimizar a comunicação e o acesso aos conteúdos educacionais para os estudantes do sétimo e oitavo semestres do curso de Ciência da Computação, utilizando o WhatsApp como plataforma de comunicação. 
+Ele proporciona acesso rápido às informações relacionadas às matérias e à grade de horários dessas turmas. Além disso, a Suri (como nomeado) atua como um canal de encaminhamento de avisos e e-mails de professores e da coordenação do curso, assegurando que os alunos recebam atualizações e instruções de forma ágil e organizada.
 
 # 📝 Objetivos Específicos 📝
 
-•  Desenvolvimento de comandos de fácil aprendizado: Implementar  comandos intuitivos para facilitar o uso do chatbot pelos usuários.
+•  Desenvolver comandos de fácil aprendizado: Implementar  comandos intuitivos para facilitar o uso do chatbot pelos usuários.
 
-•  Integração com ferramentas externas: Conectar o chatbot com  ferramentas externas para ampliar suas funcionalidades. 
+•  Integrar ferramentas externas: Conectar o chatbot com  ferramentas externas para ampliar suas funcionalidades. 
 
-•  Implementação de Funcionalidades de Busca e Acesso a Documentos: Adicionar capacidades de busca e acesso a documentos diretamente  pelo chatbot. 
+•  Implementar Funcionalidades de Busca e Acesso a Documentos: Adicionar capacidades de busca e acesso a documentos diretamente  pelo chatbot. 
 
-•  Configuração de Módulo de Comunicação com Professores:  Estabelecer um módulo no chatbot para comunicação eficiente entre  alunos e professores. 
+•  Configurar um Módulo de Comunicação com Professores:  Estabelecer um módulo no chatbot para comunicação eficiente entre  alunos e professores. 
 
 
 # 🤖 Funcionalidades 🤖
@@ -73,3 +73,12 @@ Este é o código legado da Suri, um chatbot criado para participar de conversas
 Algumas provedoras de LLM com planos gratuitos. Alguns incluindo gpt-4. 
 - [bbb](https://)
 - [aaa](https://)
+
+
+# 👨 COLABORADORES 👨
+
+- Guilherme Bastos
+- Lucas Luiz Moreira Urani
+- Kaun Mendes Caetano
+
+
