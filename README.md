@@ -81,4 +81,6 @@ Algumas provedoras de LLM com planos gratuitos. Alguns incluindo gpt-4.
 - Lucas Luiz Moreira Urani
 - Kaun Mendes Caetano
 
+# LINK PARA O GOOGLE DRIVE
 
+https://drive.google.com/drive/folders/1B-Xt_mL7yU69_tfRCxmuv1242bhL2Q6y?usp=sharing
