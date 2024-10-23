@@ -1,4 +1,4 @@
-# 💻 CHATBOT PARA AUXÍLIO AOS ALUNOS 💻
+# 💻 SURI: Chatbot para auxílio à comunidade de Ciência da Computação da UDF.💻
 
 # 📖 Descrição do Projeto 📖
 
