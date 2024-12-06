@@ -65,14 +65,14 @@ Este é o código legado da Suri, um chatbot criado para participar de conversas
 ### Comandos
 
 - `/ajuda` = Envia uma lista de comandos para ajuda inicial;
-- `/aulas` = ...;
-- `/contatos` = ...;
-- `/lista` = ...
+- `/aulas` = Selecione o semestre para receber o menu de aulas presenciais e EAD;
+- `/contatos` = Receba uma lista de contatos de professores e coordenadores;
+- `/lista` = Retorna uma lista de documentos do curso;
 
 ### APIs Gratuitas
 Algumas provedoras de LLM com planos gratuitos. Alguns incluindo gpt-4. 
-- [bbb](https://)
-- [aaa](https://)
+- [mail-listener6](https://www.npmjs.com/package/mail-listener6)
+- [axios](https://www.npmjs.com/package/axios)
 
 
 # 👨 COLABORADORES 👨
