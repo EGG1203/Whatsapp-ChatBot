@@ -1,0 +1,35 @@
+{
+  "name": "wppconnect",
+  "version": "1.0.0",
+  "main": "app.js",
+  "prefix": "/",
+  "nomebot": "Suri 🦦",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google-cloud/speech": "^6.7.0",
+    "@google/generative-ai": "^0.17.0",
+    "@wppconnect-team/wppconnect": "^1.33.0",
+    "axios": "^1.7.4",
+    "colors": "^1.4.0",
+    "convertapi": "^1.14.0",
+    "convertapi-js": "^1.0.8",
+    "discord.js": "^14.15.3",
+    "imapflow": "^1.0.171",
+    "mail-listener": "^0.7.1",
+    "mail-listener5": "^2.1.2",
+    "mail-listener6": "^2.0.3",
+    "mal-scraper": "^2.13.1",
+    "mysql2": "^3.11.3",
+    "openai": "^4.56.0",
+    "serpapi": "^2.1.0",
+    "sheetdb-node": "^0.0.12",
+    "timestamp-conv": "^3.0.0",
+    "whatsapp-web.js": "^1.25.0"
+  }
+}
